@@ -10,7 +10,7 @@ if color == "Красный" or color == "красный" or color == "1." or co
 else:
     friend += 0 # Если нет, то значение отсаëтся исходым
 
-if music == "Рок" or music == "рок" or music == "3." or music == 3: # Проверяем одинаковый ли у нас с ним любимый музкальный жанр
+if music == "Рок" or music == "рок" or music == "3." or music == 3: # Проверяем одинаковый ли у нас с ним любимый музыкальный жанр
     friend += 1
 else:
     friend += 0
